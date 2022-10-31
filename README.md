@@ -4,7 +4,7 @@
 </p>
 
 <p align="center"> <b>I'm a Full Stack Developer</b> specialized in React with JavaScript and Node, with high interest in Blockchain.
- </br>More at <a href="https://www.#">noemicampo</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+ </br>More at <a href="https://noemicampo.netlify.app/">noemicampo</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p align="center"></p>
 <hr size=4px   noshade="noshade" color="#EAB1F3">
 </br>
@@ -16,7 +16,7 @@
 - 👯 I’m looking to collaborate on Hackathons and people here on GitHub.
 - 🤔 I’m looking for help with expand my knowledge in blockchain and find a job.  
 - 💬 Ask me anything that you want, I'll be happy to help you!
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/noemi-campo-4a7381240/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/noemicampo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 - 😄 Pronouns: She/Her.
 - ⚡ Fun fact: I love 3D printing!
 
